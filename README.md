@@ -3,8 +3,7 @@
 Current University of California, Irvine Ph.D. student. I am currently working on a number of projects. Please check out [my webpage](https://glassnotebook.io/) to see the projects in full detail.
 
 ## General Projects
-- Glass Notebook (https://glassnotebook.io/)
-- ...
+- [Glass Notebook](https://glassnotebook.io/)
 
 ## Coronary Artery Calcium 🦴
 - [CalciumScoring.jl](https://github.com/Dale-Black/CalciumScoring.jl)
