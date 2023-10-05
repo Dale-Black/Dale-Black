@@ -3,7 +3,7 @@
 I am a Ph.D. student at the University of California, Irvine, delving into a range of fascinating projects. For a deeper dive into my work, feel free to check out [my webpage](https://glassnotebook.io/).
 
 ## 💡 General Projects
-- [Glass Notebook](https://glassnotebook.io/) - A digital platform designed to foster collaborative research and sharing of scientific insights by providing an interactive computational environment.
+- [Glass Notebook](https://glassnotebook.io/) - Publish interactive Pluto.jl notebooks with one click
 
 ## 🦴 Coronary Artery Calcium 
 - [CalciumScoring.jl](https://glassnotebook.io/r/7uus7O8aIcLsGebjQFqxU/docs/(00)%20Getting%20Started.jl) - A Julia package that provides tools for quantifying and analyzing coronary artery calcium, aiding in the detection and measurement of calcium in the coronary arteries.
