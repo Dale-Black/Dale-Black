@@ -11,6 +11,7 @@ I am a Ph.D. student at the University of California, Irvine, delving into a ran
 - [MaterialDecomposition.jl](https://github.com/Dale-Black/MaterialDecomposition.jl) - A Julia package implementing advanced material decomposition algorithms, useful in fields such as image processing and machine learning.
 
 ## 🤖 Deep Learning 
+- [ComputerVisionTutorials.jl](https://github.com/Dale-Black/ComputerVisionTutorials.jl)
 - [DistanceTransforms.jl](https://github.com/Dale-Black/DistanceTransforms.jl) - A Julia package that provides efficient distance transform operations on arrays, essential for many computer vision-related tasks.
 - [Losers.jl](https://github.com/Dale-Black/Losers.jl) - A comprehensive library for loss functions crucial in training deep learning models.
 - [ComputerVisionMetrics.jl](https://github.com/Dale-Black/ComputerVisionMetrics.jl) - Metrics suite for evaluating performance and accuracy of computer vision models.
