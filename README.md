@@ -1,20 +1,22 @@
-### Hi there 👋
+# About Me
 
-I am a Ph.D. student at the University of California, Irvine, delving into a range of fascinating projects. For a deeper dive into my work, feel free to check out [my webpage](https://glassnotebook.io/).
+I am a Ph.D. student at the University of California, Irvine, working on a variety of interesting projects. For more information about my work, please visit [my webpage](https://glassnotebook.io/).
 
-## 💡 General Projects
+## Projects
+
+### General
 - [Glass Notebook](https://glassnotebook.io/) - Publish interactive Pluto.jl notebooks with one click
 - [HTMLStrings.jl](https://github.com/Dale-Black/HTMLStrings.jl) - Julia DSL for writing HTML
 
-## 🦴 Coronary Artery Calcium 
-- [CalciumScoring.jl](https://github.com/Dale-Black/CalciumScoring.jl) - A Julia package that provides tools for quantifying and analyzing coronary artery calcium, aiding in the detection and measurement of calcium in the coronary arteries.
-- [MaterialDecomposition.jl](https://github.com/Dale-Black/MaterialDecomposition.jl) - A Julia package implementing advanced material decomposition algorithms, useful in fields such as image processing and machine learning.
+### Coronary Artery Calcium
+- [MolloiLab/CalciumScoring.jl](https://github.com/MolloiLab/CalciumScoring.jl) - Tools for quantifying and analyzing coronary artery calcium
+- [MolloiLab/MaterialDecomposition.jl](https://github.com/MolloiLab/MaterialDecomposition.jl) - Advanced material decomposition algorithms for multi-energy CT
 
-## 🤖 Deep Learning 
-- [ComputerVisionTutorials.jl](https://github.com/Dale-Black/ComputerVisionTutorials.jl)
-- [DistanceTransforms.jl](https://github.com/Dale-Black/DistanceTransforms.jl) - A Julia package that provides efficient distance transform operations on arrays, essential for many computer vision-related tasks.
-- [Losers.jl](https://github.com/Dale-Black/Losers.jl) - A comprehensive library for loss functions crucial in training deep learning models.
-- [ComputerVisionMetrics.jl](https://github.com/Dale-Black/ComputerVisionMetrics.jl) - Metrics suite for evaluating performance and accuracy of computer vision models.
+### Deep Learning
+- [MolloiLab/ComputerVisionTutorials.jl](https://github.com/MolloiLab/ComputerVisionTutorials.jl) Comprehensive tutorials on all things computer vision, AI, and Julia
+- [MolloiLab/DistanceTransforms.jl](https://github.com/MolloiLab/DistanceTransforms.jl) - Efficient distance transform operations on arrays w/ GPU support
+- [MolloiLab/Losers.jl](https://github.com/MolloiLab/Losers.jl) - Comprehensive library for loss functions
+- [MolloiLab/ComputerVisionMetrics.jl](https://github.com/MolloiLab/ComputerVisionMetrics.jl) - Metrics suite for evaluating computer vision models
 
-## 🩸 Perfusion Imaging 
-- [PerfusionImaging.jl](https://github.com/Dale-Black/PerfusionImaging.jl) - A Julia package providing tools for the analysis and visualization of perfusion imaging data, useful for measuring the flow of blood through tissues.
+### Perfusion Imaging
+- [PerfusionImaging.jl](https://github.com/Dale-Black/PerfusionImaging.jl) - Tools for analyzing and visualizing perfusion imaging data
