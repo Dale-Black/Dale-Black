@@ -1,6 +1,6 @@
 # About Me
 
-I am a Ph.D. student at the University of California, Irvine, working on a variety of interesting projects. For more information about my work, please visit [my webpage](https://glassnotebook.io/).
+I am a Ph.D. student at the University of California, Irvine, working on a variety of interesting projects. For more information about my work, please visit [my webpage]([https://glassnotebook.io/](https://glassnotebook.io/r/ME3NP_nrUmaWk1WHcJA89/index.jl)).
 
 ## Projects
 
