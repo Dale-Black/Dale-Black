@@ -13,7 +13,7 @@ I am a Ph.D. student at the University of California, Irvine, working on a varie
 - [MolloiLab/MaterialDecomposition.jl](https://github.com/MolloiLab/MaterialDecomposition.jl) - Advanced material decomposition algorithms for multi-energy CT
 
 ### Deep Learning
-- [MolloiLab/ComputerVisionTutorials.jl](https://github.com/MolloiLab/ComputerVisionTutorials.jl) Comprehensive tutorials on all things computer vision, AI, and Julia
+- [ComputerVisionTutorials.jl](https://github.com/Dale-Black/ComputerVisionTutorials.jl) Comprehensive tutorials on all things computer vision, AI, and Julia
 - [MolloiLab/DistanceTransforms.jl](https://github.com/MolloiLab/DistanceTransforms.jl) - Efficient distance transform operations on arrays w/ GPU support
 - [MolloiLab/Losers.jl](https://github.com/MolloiLab/Losers.jl) - Comprehensive library for loss functions
 - [MolloiLab/ComputerVisionMetrics.jl](https://github.com/MolloiLab/ComputerVisionMetrics.jl) - Metrics suite for evaluating computer vision models
