@@ -19,4 +19,4 @@ I am a Ph.D. student at the University of California, Irvine, working on a varie
 - [MolloiLab/ComputerVisionMetrics.jl](https://github.com/MolloiLab/ComputerVisionMetrics.jl) - Metrics suite for evaluating computer vision models
 
 ### Perfusion Imaging
-- [PerfusionImaging.jl](https://github.com/Dale-Black/PerfusionImaging.jl) - Tools for analyzing and visualizing perfusion imaging data
+- [MolloiLab/PerfusionImaging.jl](https://github.com/MolloiLab/PerfusionImaging.jl) - Tools for analyzing and visualizing perfusion imaging data
